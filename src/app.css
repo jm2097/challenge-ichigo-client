@@ -1,0 +1,14 @@
+@import "./theme/normalize.css";
+@import "./theme/variables.css";
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
