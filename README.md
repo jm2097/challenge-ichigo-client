@@ -8,11 +8,13 @@ The project's architecture is minimal but easy to maintain across time.
 
 Below is a representation of the folder structure
 
+```
 ├───assets
 ├───lib
 │ ├───components
 │ └───utils
 └───theme
+```
 
 ## lib (components)
 
